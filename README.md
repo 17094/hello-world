@@ -1,2 +1,5 @@
 # hello-world
-Training repository
+
+Hi,
+
+This is a message created for the training project.
